@@ -465,13 +465,7 @@ export default {
           "Render": "https://subconverter-4oam.onrender.com",
         },
         backendOptions: [
-          {value: "https://api.v1.mk"},
-          {value: "https://sub.d1.mk"},
-          {value: "https://api.tsutsu.one"},
-          {value: "https://www.nameless13.com"},
-          {value: "https://sub.xeton.dev"},
-          {value: "https://api.wcc.best"},
-          {value: "https://api.dler.io"},
+          {value: "https://subconverter-4oam.onrender.com"},
         ],
         remoteConfig: [
           {
